@@ -14,7 +14,7 @@ AFL_USE_ASAN=1 CC=afl-gcc make
 ./jhead jhead_input                        
 ```
 ASAN report :
-``
+```
 ==3490493==ERROR: AddressSanitizer: heap-use-after-free on address 0x60b000000200 at pc 0x7f35f110b58d bp 0x7fffa92b2d10 sp 0x7fffa92b24b8
 WRITE of size 19 at 0x60b000000200 thread T0
     #0 0x7f35f110b58c in __interceptor_memcpy ../../../../src/libsanitizer/sanitizer_common/sanitizer_common_interceptors.inc:790
