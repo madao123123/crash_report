@@ -142,4 +142,4 @@ the POC file is:[poc](https://github.com/madao123123/crash_report/tree/main/poc/
 
 
 ## 3.finder
-Teng Zhang, Mingxuan Liu, Chengsiyuan Yang, Heng Zhang, Hao Liu,Yaoliang Zhang,Dawei Guo , Hang Liu(all from NPU Unmanned Systems Safety Laboratory)
+Chengsiyuan Yang, Teng Zhang, Mingxuan Liu,  Heng Zhang, Hao Liu,Yaoliang Zhang,Dawei Guo , Hang Liu(all from NPU Unmanned Systems Safety Laboratory)
